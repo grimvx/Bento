@@ -15,6 +15,7 @@ const CONFIG = {
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
+	twelveHourFormatSub: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
