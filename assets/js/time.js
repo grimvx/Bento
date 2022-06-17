@@ -15,7 +15,7 @@ function displayClock() {
 	var ampm = '';
 
 	if (CONFIG.twelveHourFormat) {
-		if (CONFIG.twelveHourFormatSub) {
+		if (CONFIG.ampmFormat) {
 			ampm = hh >= 12 ? ' pm' : ' am';
 		}
 		hh = hh % 12;
