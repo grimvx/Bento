@@ -23,6 +23,10 @@ const CONFIG = {
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep!',
 
+	// Quote
+	quoteText: 'Enabled',
+	quoteShow: true,
+
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
